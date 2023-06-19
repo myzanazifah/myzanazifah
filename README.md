@@ -1,21 +1,14 @@
-<div id="header" align="center">
-  <img src="(https://github.com/myzanazifah/myzanazifah/blob/main/headergithub.png)"/>
+  <div id="header" align="center">
+   <img src="https://github.com/myzanazifah/myzanazifah/blob/main/headergithub.png" alt="Header" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/myzanazry/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="(https://www.credly.com/users/myza-nazifa-nazry)">
+    <a href="(https://www.credly.com/users/myza-nazifa-nazry/badges)">
     <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly Badge"/>
   </a>
 </div>
-  <img src="![](https://komarev.com/ghpvc/?username=myzanazifah&color=dc143c) alt=""/>
-  <h1 align="center">
-    Hello there!
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-
-  
- 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=myzanazifah&label=Profile%20views&color=0e75b6&style=flat" alt="myzanazifa" /> </p>
 
   <h8>
 
