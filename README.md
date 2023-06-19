@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/myzanazry/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="(https://www.credly.com/users/myza-nazifa-nazry/badges)">
-    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly Badge"/>
-  </a>
 </div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=myzanazifah&label=Profile%20views&color=0e75b6&style=flat" alt="myzanazifa" /> </p>
 
